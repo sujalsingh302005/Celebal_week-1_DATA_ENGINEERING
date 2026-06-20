@@ -113,5 +113,5 @@ Learn Python basics and perform basic data exploration and cleaning using Pandas
 
 ## 👤 Author
 
-**Name:** *(your name)*  
-**Course:** Celebal Technologies — Data Engineering 003  
+**Name:** *SUJAL SINGH*  
+**Course:** Celebal Technologies — Data Engineering week-1  
